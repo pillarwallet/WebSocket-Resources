@@ -6,7 +6,7 @@
 
     <groupId>org.whispersystems</groupId>
     <artifactId>parent</artifactId>
-    <version>0.3.2a</version>
+    <version>0.3.2b</version>
 
     <packaging>pom</packaging>
 
