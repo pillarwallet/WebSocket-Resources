@@ -14,8 +14,6 @@
 
     <modules>
         <module>library</module>
-        <module>sample-server</module>
-        <module>sample-client</module>
     </modules>
 
     <build>
